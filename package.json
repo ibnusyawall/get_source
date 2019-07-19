@@ -1,0 +1,24 @@
+{
+  "name": "maling_sc",
+  "version": "1.0.0",
+  "description": "mengambil sc deface orang wkwk",
+  "main": "def.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/maling_sc.git"
+  },
+  "keywords": [],
+  "author": "ibnusyawall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/maling_sc/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/maling_sc#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "needle": "^2.4.0"
+  }
+}
